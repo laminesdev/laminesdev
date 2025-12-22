@@ -28,7 +28,7 @@
 ---
 
 ## CONNECT
-- LinkedIn: [Boughaba Mohamed Amine]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohamed-amine-boughaba-b2047b2a8/))  
+- LinkedIn: [Boughaba Mohamed Amine](https://www.linkedin.com/in/mohamed-amine-boughaba-b2047b2a8/)
 - Email: [aminesdev@proton.me](mailto:aminesdev@proton.me)
 
 ---
