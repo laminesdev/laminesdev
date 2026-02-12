@@ -2,11 +2,8 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="40" height="40" />
 </p>
