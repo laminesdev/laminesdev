@@ -1,26 +1,17 @@
 # Boughaba Mohamed Amine
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="40" height="40" />
-</p>
-
 ---
 
-## TECH STACK
-- **Frontend:** React, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Express, Prisma, PostgreSQL  
-- **Tools:** TypeScript, Git, REST APIs, Vercel
+## Tools:
+- Typescript
+- Python
+- C#
 
 ---
 
 ## CURRENT FOCUS
-- Building full-stack applications → improving frontend & backend integration  
-- Learning advanced TypeScript patterns → safer, maintainable code  
-- Optimizing database queries and schema design → Prisma + PostgreSQL
+- Building full-stack TypeScript applications → improving frontend & backend integration  
+- Optimizing UX
 
 ---
 
@@ -29,9 +20,3 @@
 - Email: [aminesdev@proton.me](mailto:aminesdev@proton.me)
 
 ---
-
-## STATISTICS
-
-<p align="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laminesdev&layout=compact&theme=radical" alt="Top Languages" />
-</p>
