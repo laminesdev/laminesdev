@@ -1,9 +1,16 @@
-# Boughaba Mohamed Amine
+# Mohamed Amine Boughaba
 
-I usually work with TypeScript. Right now I'm focused on building full-stack
-applications and trying to get better at UI/UX.
+Software engineering student at University Abdelhamid Mehri Constantine 2.
+Building full-stack applications with TypeScript and learning DevOps.
 
-If you need to reach me, email is the best way:
+- Email: aminesdev@proton.me
+- LinkedIn: https://www.linkedin.com/in/mohamed-amine-boughaba-b2047b2a8/
+- Website: https://aminesdev.vercel.app
 
-- Email: [aminesdev@proton.me](mailto:aminesdev@proton.me)
-- LinkedIn: [Boughaba Mohamed Amine](https://www.linkedin.com/in/mohamed-amine-boughaba-b2047b2a8/)
+## Current focus
+
+Working on real-time systems, compilers, and infrastructure automation.
+
+## Languages & tools
+
+TypeScript, Bun, Next.js, React, Node.js, Prisma, PostgreSQL, Java, Python, Docker, Linux.
